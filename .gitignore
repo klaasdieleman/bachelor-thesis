@@ -1,6 +1,5 @@
 *.DS_Store
 .env
 __pycache__
-**/data/*
 **/document_embeddings/*
 **/viz/*
