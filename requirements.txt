@@ -1,0 +1,12 @@
+jupyter
+ruff
+dotenv
+pandas
+tqdm
+matplotlib
+seaborn
+numpy
+marker-pdf
+chromadb
+nltk
+haystack-ai

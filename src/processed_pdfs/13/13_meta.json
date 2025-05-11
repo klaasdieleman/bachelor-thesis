@@ -1,0 +1,1656 @@
+{
+  "table_of_contents": [
+    {
+      "title": "HHS Public Access",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          131.4848175048828,
+          20.471923828125
+        ],
+        [
+          334.08984375,
+          20.471923828125
+        ],
+        [
+          334.08984375,
+          43.385009765625
+        ],
+        [
+          131.4848175048828,
+          43.385009765625
+        ]
+      ]
+    },
+    {
+      "title": "Developmental Trajectories of Marijuana Use among Men: \nExamining Linkages with Criminal Behavior and Psychopathic \nFeatures into the Mid-30s",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          88.154296875,
+          126.45703125
+        ],
+        [
+          508.5738220214844,
+          126.45703125
+        ],
+        [
+          508.5738220214844,
+          185.044921875
+        ],
+        [
+          88.154296875,
+          185.044921875
+        ]
+      ]
+    },
+    {
+      "title": "Abstract",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          88.9013671875,
+          280.951171875
+        ],
+        [
+          138.66702270507812,
+          280.951171875
+        ],
+        [
+          138.66702270507812,
+          295.646484375
+        ],
+        [
+          88.9013671875,
+          295.646484375
+        ]
+      ]
+    },
+    {
+      "title": "Keywords",
+      "heading_level": null,
+      "page_id": 0,
+      "polygon": [
+        [
+          89.6484375,
+          586.265625
+        ],
+        [
+          139.552734375,
+          586.265625
+        ],
+        [
+          139.552734375,
+          598.640625
+        ],
+        [
+          89.6484375,
+          598.640625
+        ]
+      ]
+    },
+    {
+      "title": "Developmental Patterns of Marijuana Use and Adult Criminal Behavior",
+      "heading_level": null,
+      "page_id": 1,
+      "polygon": [
+        [
+          89.2001953125,
+          340.505859375
+        ],
+        [
+          490.75799560546875,
+          340.505859375
+        ],
+        [
+          490.75799560546875,
+          353.267578125
+        ],
+        [
+          89.2001953125,
+          353.267578125
+        ]
+      ]
+    },
+    {
+      "title": "Considering Specific Types of Crime and Psychopathic Personality \nFeatures",
+      "heading_level": null,
+      "page_id": 2,
+      "polygon": [
+        [
+          90.00200653076172,
+          392.703125
+        ],
+        [
+          476.78594970703125,
+          392.703125
+        ],
+        [
+          476.78594970703125,
+          425.390625
+        ],
+        [
+          90.00200653076172,
+          425.390625
+        ]
+      ]
+    },
+    {
+      "title": "Racial Differences in Marijuana Use and Antisocial Behavior",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          90.00596618652344,
+          256.703125
+        ],
+        [
+          433.001953125,
+          256.703125
+        ],
+        [
+          433.001953125,
+          268.703125
+        ],
+        [
+          90.00596618652344,
+          268.703125
+        ]
+      ]
+    },
+    {
+      "title": "Current Study",
+      "heading_level": null,
+      "page_id": 3,
+      "polygon": [
+        [
+          89.6484375,
+          542.7071228027344
+        ],
+        [
+          170.00994873046875,
+          542.7071228027344
+        ],
+        [
+          170.00994873046875,
+          554.94140625
+        ],
+        [
+          89.6484375,
+          554.94140625
+        ]
+      ]
+    },
+    {
+      "title": "Methods",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          89.947265625,
+          506.703125
+        ],
+        [
+          139.32803344726562,
+          506.703125
+        ],
+        [
+          139.32803344726562,
+          519.36328125
+        ],
+        [
+          89.947265625,
+          519.36328125
+        ]
+      ]
+    },
+    {
+      "title": "Participants",
+      "heading_level": null,
+      "page_id": 4,
+      "polygon": [
+        [
+          89.12548828125,
+          528.5899658203125
+        ],
+        [
+          147.238037109375,
+          528.5899658203125
+        ],
+        [
+          147.238037109375,
+          539.0859375
+        ],
+        [
+          89.12548828125,
+          539.0859375
+        ]
+      ]
+    },
+    {
+      "title": "Measures",
+      "heading_level": null,
+      "page_id": 5,
+      "polygon": [
+        [
+          89.72314453125,
+          374.7259826660156
+        ],
+        [
+          136.12997436523438,
+          374.7259826660156
+        ],
+        [
+          136.12997436523438,
+          384.78515625
+        ],
+        [
+          89.72314453125,
+          384.78515625
+        ]
+      ]
+    },
+    {
+      "title": "Missing Data",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          90.0,
+          102.5859375
+        ],
+        [
+          151.8046875,
+          102.5859375
+        ],
+        [
+          151.8046875,
+          113.501953125
+        ],
+        [
+          90.0,
+          113.501953125
+        ]
+      ]
+    },
+    {
+      "title": "Data Analysis Plan",
+      "heading_level": null,
+      "page_id": 9,
+      "polygon": [
+        [
+          90.0,
+          366.22265625
+        ],
+        [
+          179.47999572753906,
+          366.22265625
+        ],
+        [
+          179.47999572753906,
+          377.05078125
+        ],
+        [
+          90.0,
+          377.05078125
+        ]
+      ]
+    },
+    {
+      "title": "Results",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          89.99402618408203,
+          118.703125
+        ],
+        [
+          134.6220703125,
+          118.703125
+        ],
+        [
+          134.6220703125,
+          131.5810546875
+        ],
+        [
+          89.99402618408203,
+          131.5810546875
+        ]
+      ]
+    },
+    {
+      "title": "Descriptive Statistics for Study Outcomes",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          89.9980239868164,
+          140.5899658203125
+        ],
+        [
+          289.4980163574219,
+          140.5899658203125
+        ],
+        [
+          289.4980163574219,
+          150.5899658203125
+        ],
+        [
+          89.9980239868164,
+          150.5899658203125
+        ]
+      ]
+    },
+    {
+      "title": "Trajectory Groups",
+      "heading_level": null,
+      "page_id": 10,
+      "polygon": [
+        [
+          88.751953125,
+          338.572265625
+        ],
+        [
+          176.68804931640625,
+          338.572265625
+        ],
+        [
+          176.68804931640625,
+          348.626953125
+        ],
+        [
+          88.751953125,
+          348.626953125
+        ]
+      ]
+    },
+    {
+      "title": "Race Differences in Trajectory Group Membership",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          90.0,
+          336.5859680175781
+        ],
+        [
+          328.39996337890625,
+          336.5859680175781
+        ],
+        [
+          328.39996337890625,
+          347.2734375
+        ],
+        [
+          90.0,
+          347.2734375
+        ]
+      ]
+    },
+    {
+      "title": "Antisocial Outcomes at Age 36",
+      "heading_level": null,
+      "page_id": 11,
+      "polygon": [
+        [
+          89.99995422363281,
+          534.7959594726562
+        ],
+        [
+          236.70994567871094,
+          534.7959594726562
+        ],
+        [
+          236.70994567871094,
+          545.66015625
+        ],
+        [
+          89.99995422363281,
+          545.66015625
+        ]
+      ]
+    },
+    {
+      "title": "Drug- and non-drug-related criminal charges from ages 26 to 37\u2014Group",
+      "heading_level": null,
+      "page_id": 12,
+      "polygon": [
+        [
+          148.6669921875,
+          366.99609375
+        ],
+        [
+          490.89996337890625,
+          366.99609375
+        ],
+        [
+          490.89996337890625,
+          377.1634521484375
+        ],
+        [
+          148.6669921875,
+          377.1634521484375
+        ]
+      ]
+    },
+    {
+      "title": "Moderating Effect of Race",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          89.7978515625,
+          116.5859375
+        ],
+        [
+          213.8115234375,
+          116.5859375
+        ],
+        [
+          213.8115234375,
+          126.9404296875
+        ],
+        [
+          89.7978515625,
+          126.9404296875
+        ]
+      ]
+    },
+    {
+      "title": "Discussion",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          88.6025390625,
+          302.7031555175781
+        ],
+        [
+          154.0140380859375,
+          302.7031555175781
+        ],
+        [
+          154.0140380859375,
+          314.982421875
+        ],
+        [
+          88.6025390625,
+          314.982421875
+        ]
+      ]
+    },
+    {
+      "title": "Divergent Developmental Trajectories of Marijuana Use",
+      "heading_level": null,
+      "page_id": 13,
+      "polygon": [
+        [
+          90.00405883789062,
+          601.734375
+        ],
+        [
+          352.3040466308594,
+          601.734375
+        ],
+        [
+          352.3040466308594,
+          612.5899810791016
+        ],
+        [
+          90.00405883789062,
+          612.5899810791016
+        ]
+      ]
+    },
+    {
+      "title": "Trajectory Group Differences in Criminal Offending and Psychopathic Features",
+      "heading_level": null,
+      "page_id": 14,
+      "polygon": [
+        [
+          90.0000228881836,
+          158.0712890625
+        ],
+        [
+          465.6498718261719,
+          158.0712890625
+        ],
+        [
+          465.6498718261719,
+          168.5859375
+        ],
+        [
+          90.0000228881836,
+          168.5859375
+        ]
+      ]
+    },
+    {
+      "title": "Race Differences in Marijuana Use and Antisocial Outcomes",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          90.0,
+          116.5859375
+        ],
+        [
+          376.1999816894531,
+          116.5859375
+        ],
+        [
+          376.1999816894531,
+          126.5859375
+        ],
+        [
+          90.0,
+          126.5859375
+        ]
+      ]
+    },
+    {
+      "title": "Limitations and Future Directions",
+      "heading_level": null,
+      "page_id": 15,
+      "polygon": [
+        [
+          90.0,
+          464.5859680175781
+        ],
+        [
+          249.6708984375,
+          464.5859680175781
+        ],
+        [
+          249.6708984375,
+          474.5859680175781
+        ],
+        [
+          90.0,
+          474.5859680175781
+        ]
+      ]
+    },
+    {
+      "title": "Conclusions",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          89.2001953125,
+          282.7031555175781
+        ],
+        [
+          162.01602172851562,
+          282.7031555175781
+        ],
+        [
+          162.01602172851562,
+          295.259765625
+        ],
+        [
+          89.2001953125,
+          295.259765625
+        ]
+      ]
+    },
+    {
+      "title": "Acknowledgments",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          89.99601745605469,
+          501.7071228027344
+        ],
+        [
+          196.01602172851562,
+          501.7071228027344
+        ],
+        [
+          196.01602172851562,
+          513.7071228027344
+        ],
+        [
+          89.99601745605469,
+          513.7071228027344
+        ]
+      ]
+    },
+    {
+      "title": "Funding",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          148.59228515625,
+          522.84375
+        ],
+        [
+          180.3427734375,
+          522.84375
+        ],
+        [
+          180.3427734375,
+          532.125
+        ],
+        [
+          148.59228515625,
+          532.125
+        ]
+      ]
+    },
+    {
+      "title": "References",
+      "heading_level": null,
+      "page_id": 16,
+      "polygon": [
+        [
+          89.57373046875,
+          567.7071838378906
+        ],
+        [
+          154.69607543945312,
+          567.7071838378906
+        ],
+        [
+          154.69607543945312,
+          579.7071838378906
+        ],
+        [
+          89.57373046875,
+          579.7071838378906
+        ]
+      ]
+    },
+    {
+      "title": "Biographies",
+      "heading_level": null,
+      "page_id": 19,
+      "polygon": [
+        [
+          89.99430084228516,
+          544.703125
+        ],
+        [
+          160.470703125,
+          544.703125
+        ],
+        [
+          160.470703125,
+          557.26171875
+        ],
+        [
+          89.99430084228516,
+          557.26171875
+        ]
+      ]
+    },
+    {
+      "title": "Figure 1.",
+      "heading_level": null,
+      "page_id": 21,
+      "polygon": [
+        [
+          150.00299072265625,
+          458.1895446777344
+        ],
+        [
+          186.75,
+          458.1895446777344
+        ],
+        [
+          186.75,
+          469.4765625
+        ],
+        [
+          150.00299072265625,
+          469.4765625
+        ]
+      ]
+    },
+    {
+      "title": "Table 2",
+      "heading_level": null,
+      "page_id": 24,
+      "polygon": [
+        [
+          282.5419921875,
+          80.05078125
+        ],
+        [
+          317.35546875,
+          80.05078125
+        ],
+        [
+          317.35546875,
+          90.685546875
+        ],
+        [
+          282.5419921875,
+          90.685546875
+        ]
+      ]
+    }
+  ],
+  "page_stats": [
+    {
+      "page_id": 0,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          100
+        ],
+        [
+          "Line",
+          45
+        ],
+        [
+          "Text",
+          12
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "PageHeader",
+          4
+        ],
+        [
+          "Footnote",
+          3
+        ],
+        [
+          "Picture",
+          1
+        ],
+        [
+          "ListItem",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 1,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          99
+        ],
+        [
+          "Line",
+          52
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          5
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 2,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          97
+        ],
+        [
+          "Line",
+          51
+        ],
+        [
+          "Text",
+          6
+        ],
+        [
+          "PageHeader",
+          5
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 3,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          98
+        ],
+        [
+          "Line",
+          51
+        ],
+        [
+          "PageHeader",
+          6
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 4,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          100
+        ],
+        [
+          "Line",
+          51
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 5,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          102
+        ],
+        [
+          "Line",
+          50
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          6
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 6,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          108
+        ],
+        [
+          "Line",
+          51
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          5
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 7,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          108
+        ],
+        [
+          "Line",
+          52
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          5
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 8,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          104
+        ],
+        [
+          "Line",
+          52
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "PageHeader",
+          5
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 9,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          98
+        ],
+        [
+          "Line",
+          50
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          6
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 10,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          102
+        ],
+        [
+          "Line",
+          49
+        ],
+        [
+          "PageHeader",
+          6
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          3
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 11,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          101
+        ],
+        [
+          "Line",
+          49
+        ],
+        [
+          "PageHeader",
+          5
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ],
+        [
+          "TextInlineMath",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 12,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          99
+        ],
+        [
+          "Line",
+          51
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          5
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 13,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          95
+        ],
+        [
+          "Line",
+          50
+        ],
+        [
+          "PageHeader",
+          6
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          3
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 14,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          98
+        ],
+        [
+          "Line",
+          51
+        ],
+        [
+          "PageHeader",
+          6
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 15,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          97
+        ],
+        [
+          "Line",
+          51
+        ],
+        [
+          "PageHeader",
+          6
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 16,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          93
+        ],
+        [
+          "Line",
+          49
+        ],
+        [
+          "PageHeader",
+          5
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "SectionHeader",
+          4
+        ],
+        [
+          "ListItem",
+          4
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 17,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          118
+        ],
+        [
+          "Line",
+          61
+        ],
+        [
+          "ListItem",
+          19
+        ],
+        [
+          "PageHeader",
+          5
+        ],
+        [
+          "Text",
+          2
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 18,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          118
+        ],
+        [
+          "Line",
+          61
+        ],
+        [
+          "ListItem",
+          21
+        ],
+        [
+          "PageHeader",
+          5
+        ],
+        [
+          "TextInlineMath",
+          1
+        ],
+        [
+          "Text",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 19,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          113
+        ],
+        [
+          "Line",
+          58
+        ],
+        [
+          "ListItem",
+          15
+        ],
+        [
+          "PageHeader",
+          6
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "ListGroup",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 20,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          34
+        ],
+        [
+          "Line",
+          18
+        ],
+        [
+          "PageHeader",
+          5
+        ],
+        [
+          "Text",
+          4
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 21,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          24
+        ],
+        [
+          "Line",
+          14
+        ],
+        [
+          "PageHeader",
+          5
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "Caption",
+          1
+        ],
+        [
+          "Figure",
+          1
+        ],
+        [
+          "SectionHeader",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 22,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          352
+        ],
+        [
+          "Line",
+          336
+        ],
+        [
+          "TableCell",
+          203
+        ],
+        [
+          "Text",
+          10
+        ],
+        [
+          "PageHeader",
+          6
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 23,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          15
+        ],
+        [
+          "Line",
+          10
+        ],
+        [
+          "Text",
+          7
+        ],
+        [
+          "PageHeader",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 24,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          81
+        ],
+        [
+          "TableCell",
+          25
+        ],
+        [
+          "Line",
+          19
+        ],
+        [
+          "PageHeader",
+          6
+        ],
+        [
+          "Text",
+          3
+        ],
+        [
+          "SectionHeader",
+          1
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 25,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          335
+        ],
+        [
+          "Line",
+          281
+        ],
+        [
+          "TableCell",
+          176
+        ],
+        [
+          "PageHeader",
+          6
+        ],
+        [
+          "Text",
+          4
+        ],
+        [
+          "TextInlineMath",
+          3
+        ],
+        [
+          "Table",
+          1
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    },
+    {
+      "page_id": 26,
+      "text_extraction_method": "pdftext",
+      "block_counts": [
+        [
+          "Span",
+          279
+        ],
+        [
+          "Line",
+          219
+        ],
+        [
+          "TableCell",
+          118
+        ],
+        [
+          "PageHeader",
+          6
+        ],
+        [
+          "Text",
+          5
+        ],
+        [
+          "Table",
+          2
+        ],
+        [
+          "TextInlineMath",
+          2
+        ]
+      ],
+      "block_metadata": {
+        "llm_request_count": 0,
+        "llm_error_count": 0,
+        "llm_tokens_used": 0
+      }
+    }
+  ],
+  "debug_data_path": "debug_data/13"
+}
