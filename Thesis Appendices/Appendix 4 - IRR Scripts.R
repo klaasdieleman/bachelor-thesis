@@ -1,5 +1,5 @@
 ##
-# Appendix 4 - R IRR scripts
+# IRR scripts
 #
 
 # This scripts gets Cohen's Kappa and Gwet's AC1 for inter-rater reliability

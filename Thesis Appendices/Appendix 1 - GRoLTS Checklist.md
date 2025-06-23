@@ -1,5 +1,4 @@
-# Appendix 1
-## GRoLTS-checklist
+# GRoLTS-checklist
 
 1. Is the metric or unit of time used in the statistical model reported? (i.e., wave, hours, days, weeks, months, years, etc.)
 2. Is information presented about the mean and variance of time within a wave?
